@@ -8,7 +8,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "OnStart.md",
+        "template.ts"
     ],
     "testFiles": [
         "test.ts"
