@@ -6,3 +6,5 @@ theme: jekyll-theme-slate
 include:
   - assets
   - README.md
+  - OnStart.md
+  - template.ts
