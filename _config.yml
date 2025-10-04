@@ -7,4 +7,3 @@ include:
   - assets
   - README.md
   - OnStart.md
-  - template.ts

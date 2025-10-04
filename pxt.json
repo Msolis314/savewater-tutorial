@@ -9,8 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "OnStart.md",
-        "template.ts"
+        "OnStart.md"
     ],
     "testFiles": [
         "test.ts"
